@@ -1,6 +1,6 @@
 # Minesweeper
 
-When you update windows and Minesweeper disappears, I's time to make your own version!
+When you update windows and Minesweeper disappears, it's time to make your own version!
 
 ![Minesweeper0](/Minesweeper0.png)
 
